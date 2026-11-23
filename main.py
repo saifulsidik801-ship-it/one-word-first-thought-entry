@@ -18,6 +18,8 @@ It scores on all three counts at once:
 
 The program writes exactly that one word, nothing else, to
 /output/entry.txt - 10 characters, well inside the gate's 1-24.
+The file holds the word alone, lowercase, with no trailing
+newline or extra whitespace.
 """
 
 import os
